@@ -1,8 +1,4 @@
-# SuperM React Tutorial
 
-https://react-tutorial.app
-
-Feel free to remix the project. You can use it for your job interview, to start your own project. You can add features, remove features, host it online. The only **restriction** is hosting the original project with the instructions that were provided on React Tutorial.
 
 Get started by running `npm install` and then `npm run start`
 
