@@ -1,4 +1,3 @@
-Link : https://bit.ly/3IBo06U
 
 Get started by running `npm install` and then `npm run start`
 
